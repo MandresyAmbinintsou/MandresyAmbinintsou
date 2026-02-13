@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">Salut 👋, je suis Ambinintsoa </h1>
 
-<!--
-**MandresyAmbinintsou/MandresyAmbinintsou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Développeur passionné et créatif et Administrateur Resaux et Cybersecurité <br>
+ 
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://tonsite.com">🌐 Site</a> •
+  <a href="https://www.linkedin.com/in/mandresy-ambinintsou-97244a369?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a> •
+  <a href="mailto:mandresyambinintsou@gmail.com  ">Email</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 À propos de moi
+- 🔭 Je travaille sur des projets open-source
+- 🌱 J’apprends actuellement **Python, JavaScript, React,...**
+- 💡 J’aime transformer des idées en solutions élégantes
+- ⚡ Fun fact : j’adore apprendre de nouvelles technos
+
+---
+
+### 🛠️ Compétences
+<p>
+  <img src="https://img.shields.io/badge/-Python-000?&logo=python"/>
+  <img src="https://img.shields.io/badge/-JavaScript-000?&logo=javascript"/>
+  <img src="https://img.shields.io/badge/-React-000?&logo=react"/>
+  <img src="https://img.shields.io/badge/-HTML5-000?&logo=html5"/>
+  <img src="https://img.shields.io/badge/-CSS3-000?&logo=css3"/>
+  <img src="https://img.shields.io/badge/-Git-000?&logo=git"/>
+  <img src="https://img.shields.io/badge/-DevOps-000?&logo=devops"/>
+  <img src="https://img.shields.io/badge/-Docker-000?&logo=docker"/>
+  <img src="https://img.shields.io/badge/-Linux-000?&logo=linux"/>
+  <img src="https://img.shields.io/badge/-GitHub_Actions-000?&logo=githubactions"/>
+
+</p>
+
+
+---
+
+### 📌 Projets principaux
+-  **anime-dl** – Téléchargement d’animes depuis Vostfree
+- **SalutChat** – Application de chat en JavaScript
+- **Aizoku** – Assistant IA local et inclusif
+
+
+---
+
+### 🤝 Me contacter
+📧 Email : mandresyambinintsou@gmail.com  
+🌐 Site : https://tonsite.com
+
+---
+
+⭐ *Merci de visiter mon profil GitHub !*
