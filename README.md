@@ -40,8 +40,8 @@
 ---
 
 ### 📌 Projets principaux
--  **anime-dl** – Téléchargement d’animes depuis Vostfree
-- **SalutChat** – Application de chat en JavaScript
+-  **VigIA** – IA de surveillance Reseaux en temps reel et Detection de faille par Machine Learning 
+- **VOSTIA** – Application de traduction et creation sous titrée sur un anime par ML
 - **Aizoku** – Assistant IA local et inclusif
 
 
